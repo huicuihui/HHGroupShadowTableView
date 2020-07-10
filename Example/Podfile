@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'HHGroupShadowTableView_Example' do
+  pod 'HHGroupShadowTableView', :path => '../'
+
+  target 'HHGroupShadowTableView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
