@@ -334,7 +334,12 @@
     // 如果你 cell 已经取消选中状态的话,那以下方法是不需要的.
     // 选中背景
     UIView *selectedBackgroundView = [[UIView alloc] initWithFrame:cell.bounds];
-    backgroundLayer.fillColor = [UIColor systemGroupedBackgroundColor].CGColor;
+    if (@available(iOS 13.0, *)) {
+        backgroundLayer.fillColor = [UIColor systemGroupedBackgroundColor].CGColor;
+    } else {
+        // Fallback on earlier versions
+        backgroundLayer.fillColor = [UIColor groupTableViewBackgroundColor].CGColor;
+    }
     [selectedBackgroundView.layer insertSublayer:backgroundLayer below:cell.layer];
     selectedBackgroundView.backgroundColor = UIColor.clearColor;
     cell.selectedBackgroundView = selectedBackgroundView;
