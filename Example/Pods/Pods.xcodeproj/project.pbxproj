@@ -38,7 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		00659D83F8A57524F7C5CBD7C4280BF8 /* Pods_HHGroupShadowTableView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HHGroupShadowTableView_Tests.framework; path = "Pods-HHGroupShadowTableView_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		00659D83F8A57524F7C5CBD7C4280BF8 /* Pods_HHGroupShadowTableView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HHGroupShadowTableView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		07FC4CDE370CAC6855F8A313ED137C52 /* Pods-HHGroupShadowTableView_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HHGroupShadowTableView_Tests-umbrella.h"; sourceTree = "<group>"; };
 		08A8517C2657A1835876FFA98149B8C2 /* Pods-HHGroupShadowTableView_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HHGroupShadowTableView_Example-dummy.m"; sourceTree = "<group>"; };
 		1C919283D22C69C1124062BE740FC800 /* Pods-HHGroupShadowTableView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HHGroupShadowTableView_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -49,28 +49,28 @@
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		39E8F3CB658CBD996E41D07429A27938 /* HHGroupShadowTableView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "HHGroupShadowTableView-prefix.pch"; sourceTree = "<group>"; };
 		44F92FCA2497D6B36848EA940C69AF45 /* HHGroupShadowTableView-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "HHGroupShadowTableView-Info.plist"; sourceTree = "<group>"; };
-		4D3CE3309DDDC417D086AF6145891254 /* Pods_HHGroupShadowTableView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_HHGroupShadowTableView_Example.framework; path = "Pods-HHGroupShadowTableView_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4D3CE3309DDDC417D086AF6145891254 /* Pods_HHGroupShadowTableView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HHGroupShadowTableView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		594FE795860E824C55239A00DFB90D88 /* Pods-HHGroupShadowTableView_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HHGroupShadowTableView_Tests.modulemap"; sourceTree = "<group>"; };
 		671BB59A1516ADD2360266F52325EFEF /* Pods-HHGroupShadowTableView_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HHGroupShadowTableView_Example-umbrella.h"; sourceTree = "<group>"; };
 		719974CCD1A0FFE5843D105647423BFF /* Pods-HHGroupShadowTableView_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HHGroupShadowTableView_Tests-dummy.m"; sourceTree = "<group>"; };
-		7477D5DA9841F966C118EB8B56220ABB /* HHGroupShadowTableView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = HHGroupShadowTableView.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		7477D5DA9841F966C118EB8B56220ABB /* HHGroupShadowTableView.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = HHGroupShadowTableView.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		757DE14F039477903482EC041D4F42DA /* Pods-HHGroupShadowTableView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HHGroupShadowTableView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		76906C5385E54F42F00704EA03573B39 /* HHGroupShadowTableView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = HHGroupShadowTableView.xcconfig; sourceTree = "<group>"; };
 		787AFE2DB9D4E300361226FE07DC632F /* Pods-HHGroupShadowTableView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HHGroupShadowTableView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		7EB59EECCDBCA2B06E0CE425B6CBF03F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		7EB59EECCDBCA2B06E0CE425B6CBF03F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		81C3707C51E59C6288580993015F487E /* Pods-HHGroupShadowTableView_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HHGroupShadowTableView_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		84F636145DF60D8ED7C1DF68BAB51AC1 /* Pods-HHGroupShadowTableView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HHGroupShadowTableView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		B38446631BB6828CC69405CFAE4B8855 /* HHGroupShadowTableView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HHGroupShadowTableView.modulemap; sourceTree = "<group>"; };
 		C263A82E0C15CC0D55514F00A20CF4CB /* Pods-HHGroupShadowTableView_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HHGroupShadowTableView_Example-Info.plist"; sourceTree = "<group>"; };
 		C3017A8B405BE7A3233A9724369AF976 /* Pods-HHGroupShadowTableView_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HHGroupShadowTableView_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		CB0E5FAA277ED38A7B19168A990D440E /* GroupShadowTableView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = GroupShadowTableView.h; path = HHGroupShadowTableView/Classes/GroupShadowTableView.h; sourceTree = "<group>"; };
 		CB134125FEAC59D91547446CEABE447F /* Pods-HHGroupShadowTableView_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HHGroupShadowTableView_Example.modulemap"; sourceTree = "<group>"; };
 		D1A25AEC18D5FE49C7F1B049490D1CD3 /* Pods-HHGroupShadowTableView_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HHGroupShadowTableView_Tests-Info.plist"; sourceTree = "<group>"; };
-		D516B82EEE2CDBE0A017DAA65B2A7E40 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		D516B82EEE2CDBE0A017DAA65B2A7E40 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		D52DAEAC7BF8126F0EF31276BA2AC2FE /* GroupShadowTableView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = GroupShadowTableView.m; path = HHGroupShadowTableView/Classes/GroupShadowTableView.m; sourceTree = "<group>"; };
 		DE2AC946A8C4753BE840A5F5E83F9CC6 /* Pods-HHGroupShadowTableView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HHGroupShadowTableView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		E3E1CB63389782D7230010B14DD2DC2D /* HHGroupShadowTableView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = HHGroupShadowTableView.framework; path = HHGroupShadowTableView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E3E1CB63389782D7230010B14DD2DC2D /* HHGroupShadowTableView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = HHGroupShadowTableView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -528,8 +528,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
