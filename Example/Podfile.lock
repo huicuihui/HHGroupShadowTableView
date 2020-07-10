@@ -1,0 +1,16 @@
+PODS:
+  - HHGroupShadowTableView (0.1.0)
+
+DEPENDENCIES:
+  - HHGroupShadowTableView (from `../`)
+
+EXTERNAL SOURCES:
+  HHGroupShadowTableView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HHGroupShadowTableView: 807e03f5ebc4b0f897971a4f9f3e76258638a91d
+
+PODFILE CHECKSUM: 0bd80ab129f8230b9ca776d00350c6b071317a2d
+
+COCOAPODS: 1.8.4
