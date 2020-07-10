@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'HHGroupShadowTableView/Classes/**/*'
+  s.source_files = 'HHGroupShadowTableView/HHGroupShadowTableView/Classes/**/*'
   
   # s.resource_bundles = {
   #   'HHGroupShadowTableView' => ['HHGroupShadowTableView/Assets/*.png']
